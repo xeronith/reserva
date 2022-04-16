@@ -11,7 +11,7 @@ This React Native application is developed to demonstrate a basic structure for 
 
 To run the application using Expo you can install node 16 on your machine and then install Expo with `npm install -g expo-cli`. You can start the app with `expo start`. Make sure you have iOS Simulator or Android Emulator installed on your machine. You can also use Expo Go app to test the application directly on your device.
 
-Note that this app relies on a NodeJS backend which can be found at https://gitlab.com/meysam-mousavi/reserva-server
+Note that this app relies on a NodeJS backend which can be found at https://github.com/xeronith/reserva-server
 
 Before running the app you should change the `BASE_URL` in `/api/config.ts` to the running backend server address.
 
